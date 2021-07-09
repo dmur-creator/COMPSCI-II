@@ -1,0 +1,1 @@
+This was my final project for CSC II which I was a co-leader on. I helped lead by answering questions, setting deadlines, testing code and combining the submitted code by those working under me along with my own into one file for final submission and grading.
