@@ -1,0 +1,5 @@
+stringReversed = stringReversed + chStack.pop().toString();
+for(int x=0; x<stringIn.length(); x++)
+(()()(()))
+pane.setPadding(new Insets(5,5,5,5)));
+(())())()
